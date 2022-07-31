@@ -55,6 +55,7 @@ templates_path = ["_templates"]
 exclude_patterns = []
 
 is_subproject = True
+readthedocs_url = "http://hsc.philips.com"
 issues_uri = "https://github.com/DriesSchaumont/sphinx-subprojecttoctree/issues/{issue}"
 issues_pr_uri = "https://github.com/DriesSchaumont/sphinx-subprojecttoctree/pull/{pr}"
 
